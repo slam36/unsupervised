@@ -20,6 +20,10 @@ All of the plots will be outputted as .png files in this directory when you run 
 The neural network code sections save the accuracy and other metrics in text files, so the plotting can read from these text files without having to rerun the neural network training code.
 
 Requirements:
+
 sk-learn 0.20.1
+
 numpy 1.15.0
+
 matplotlib 2.2.2
+
